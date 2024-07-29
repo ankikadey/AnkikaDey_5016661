@@ -1,4 +1,5 @@
-public class Logger {
+package SingletonPatternExample;
+public class Logger{
     private static Logger instance;
 
     private Logger() {
@@ -16,4 +17,3 @@ public class Logger {
         System.out.println(message);
     }
 }
-
