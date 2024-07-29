@@ -1,0 +1,50 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse / VSCode
+.metadata
+*.pydevproject
+.project
+.settings
+.classpath
+.code-workspace
+
+# IntelliJ
+.idea
+*.iml
+*.ipr
+*.iws
+
+# Netbeans
+nbproject
+build
+nbbuild
+dist
+nbdist
+
+# Maven
+target
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Gradle
+build
+.gradle
+
+# Log files
+*.log
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
