@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Sort {
+public class SortSystemTest {
     public static void main(String[] args) {
         List<Order> orderList = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);

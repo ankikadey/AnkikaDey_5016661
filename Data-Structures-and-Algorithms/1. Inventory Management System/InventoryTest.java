@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class InventoryTest {
     public static void main(String[] args) {
         Inventory inventorySystem = new Inventory();
         Scanner scanner = new Scanner(System.in);
