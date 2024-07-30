@@ -4,6 +4,6 @@
 Welcome to the Java FSE Cognizant Nurture 3.0 coursework repository. This repository contains all the weekly assignments for the deep-skilling program aimed at enhancing your Java FSE capabilities.
 
 ## Table of Contents
-- [Week 1](#week-1)
+- [Week 1]
   - [Algorithms and Data Structures](Week1/Data-Structures-and-Algorithms)
   - [Design Patterns and Principles](Week1/Design-Patterns-and-Principles)
